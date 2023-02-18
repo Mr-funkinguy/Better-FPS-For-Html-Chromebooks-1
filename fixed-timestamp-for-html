@@ -1,0 +1,3 @@
+paste this in titlestate or som
+
+FlxG.fixedTimestep = false;
